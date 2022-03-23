@@ -1,7 +1,7 @@
-select idPlayer,
+SELECT idPlayer,
        dtBirth
 
-from tb_players
+FROM tb_players
 
-where descCountry = 'ar'
-and dtBirth is not null
+WHERE descCountry = 'ar'
+AND dtBirth IS NOT NULL

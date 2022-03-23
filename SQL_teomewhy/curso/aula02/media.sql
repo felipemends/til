@@ -1,2 +1,4 @@
-select avg(date('now') - date(dtBirth)) as idade
-from tb_players
+SELECT
+    avg(date('now') - date(dtBirth)) as idade
+
+FROM tb_players

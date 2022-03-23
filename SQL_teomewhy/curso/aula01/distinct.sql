@@ -1,3 +1,3 @@
-select distinct descCountry
+SELECT DISTINCT descCountry
 
-from tb_players
+FROM tb_players

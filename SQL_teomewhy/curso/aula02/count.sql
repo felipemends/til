@@ -1,6 +1,5 @@
-select count(*),
-  -- número de linhas
-  count(distinct idPlayer),
-  -- numero de playres distintos
-  count(distinct descCountry) as qtCountry
-from tb_players
+SELECT count(*), -- numero de linhas
+       count(distinct idPlayer) as qtPlayers, -- numero de players distintos
+       count(distinct descCountry) as qtCountry
+
+FROM tb_players
