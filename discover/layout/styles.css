@@ -1,21 +1,43 @@
-.container {
+body {
+  margin:0;
+  height:100vh;
+
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "main aside"
+    "footer footer";
+
+  grid-template-rows: 30px 1fr 40px;
+  grid-template-columns: 1fr 80px;
+
+}
+
+header {
+  grid-area: header;
+    background-color: green;
+
   display: flex;
   justify-content: space-between;
-}
-.box {
-width: 50px;
-height: 50px;
-margin-bottom: 8px;
+  align-items: center;
+
+  padding: 0 8px;
+
 }
 
-.blue {
-background-color: blue;
+main {
+  grid-area: main;
+    background-color: red;
+
 }
 
-.red {
-  background-color: red;
+aside {
+  grid-area: aside;
+    background-color: blue;
+
 }
 
-.green {
-  background-color: green;
+footer {
+  grid-area: footer;
+  background-color: grey;
 }
