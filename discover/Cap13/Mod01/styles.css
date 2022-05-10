@@ -1,0 +1,71 @@
+h1 {
+  color: blue;
+  font-size: 30px;
+}
+
+p {
+  color: green;
+}
+
+#content {
+  color: orange;
+}
+
+#title {
+  color: brown;
+}
+
+.red {
+  color: red;
+}
+
+.big {
+  font-size: 3em;
+}
+
+[title] {
+  color: darkred;
+}
+
+p:hover {
+  color:black;
+}
+
+/* hover: ao passar o mouse em cima do elemento, ele executa o comando abaixo */
+h2:hover { 
+  color: white;
+}
+
+p, h1, h2, .red, strong {
+  color: red;
+}
+
+/* Descendant combinators */
+body article h2 {
+  color: gray;
+}
+
+/* Child combinators */
+ul > ul > li {
+  color: darkgray;
+}
+
+/* Adjacent sibling combinators */
+button + button {
+  margin-left: 32px;
+}
+
+/* General sibling combinators */
+h1 ~ p {
+  color: black;
+}
+
+/* Utilizando combinators */
+ul > li[class="red"] {
+  color: red;
+}
+
+/* excesso de seletores (muito específicos) tendem a causa dificuldades no reuso das regras de estilização dos elementos */
+.red {
+  color: red;
+}

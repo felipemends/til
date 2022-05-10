@@ -1,0 +1,8 @@
+/* Pseudo-classes é um tipo de seletor que irá selecionar um elemento que tiver em um estado específico. */
+
+/* */
+
+article li:nth-child(2) {
+  font-weight: bold;
+  color: darkred;
+}
