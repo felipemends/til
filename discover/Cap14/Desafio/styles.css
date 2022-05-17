@@ -2,19 +2,22 @@
   margin: .1rem;
 }
 
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
 header {
   padding: 4rem;
   background: lightgray;
+  height: 4rem;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-a {
-  
 }
 
 ul {
@@ -59,4 +62,32 @@ main {
 
 img {
   width: 30%;
+}
+
+button {
+  display: flex;
+  align-items: center;
+
+  line-height: 0;
+
+  gap: .4rem;
+}
+
+button img {
+  width: 2rem;
+  height: 2rem;
+}
+
+footer {
+  margin-top: auto;
+
+  background: gray;
+  color: white;
+
+  height: 8rem;
+  flex: 1;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
