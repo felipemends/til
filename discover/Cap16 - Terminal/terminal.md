@@ -67,3 +67,77 @@
   * man
     * manual de comandos
   * apropos
+
+  pwd
+* mostrar o diretório atual
+  
+  cd
+ Change Directory
+* mudar o diretório
+* .
+  * diretório atual
+* ..
+  * voltar diretórios
+* -
+  * voltar de onde veio
+
+  ls
+ Lista arquivos e pastas
+* -l
+  * mais informações
+* -a
+  * all
+* -h
+  * human
+* -R
+  * reecursive
+* -S
+  * ordenar pelo tamanho
+
+  file
+* tipo de arquivo
+* informaçoes
+
+  stat
+* dono
+* modificações
+* tamanho
+
+  mkdir
+ Criar diretórios
+
+  touch
+* alterar registro de data e hora dos arquivos e pastas
+* criar um ou mais arquivos
+
+  cp
+ copiar
+* -r
+
+  mv
+ mover (renomear)
+
+  rm
+ remover (para sempre)
+* -r
+* -f (force)
+
+  wildcards(curinga)
+* * (qualquer e quantos caracteres que estiverem à frente)
+  * 1 ou mais caracter
+* ?
+  * 1 caracter
+
+  find
+ encontrar arquivos ou diretórios
+find <path> arg [expression]
+* -type <diirectory or file>
+* -name
+
+  ver conteúdo dos arquivos
+* less (arquivo aberto)
+* cat (mostrar e fecha o arquivo)
+
+  editar arquivos
+* nano (editor de texto)
+* vim (editar com comandos)
