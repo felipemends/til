@@ -30,3 +30,10 @@ No Apache, cada request ocupa uma thread até o fim da tarefa, bloqueando a thre
   * passou a fazer parte do https://openjsf.org
 * https://github.com/nodejs/node
 * comunidade ativa!
+
+# REPL
+
+* Read-Eval-Print-Loop
+* Escrever JavaScrt em um ambiente node, direto no terminal
+* Para entrar, digite node no terminal
+
