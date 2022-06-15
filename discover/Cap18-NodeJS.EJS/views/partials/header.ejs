@@ -1,5 +1,6 @@
 <header>
-  <nav class="navbar navbar-expand navbar-light bg-light">
+
+    <nav class="navbar navbar-expand navbar-light bg-light">
     <a class="navbar-brand" href="/">EJS</a>
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
@@ -10,4 +11,6 @@
       </li>
     </ul>
   </nav>
+
+  <p>Página: <%= typeof pagina != 'undefined' ? pagina: 'Home' %></p>
 </header>
