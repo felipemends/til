@@ -1,18 +1,18 @@
-## Estrutura de Dados
+# Estrutura de Dados
 
-# Objetivo
+## Objetivo
 
 * Apresentação e modelagem de estruturas
 * Conceitos fundamentais
 * JavaScript
 
-# Por que JavaScript?
+## Por que JavaScript?
 
 * Linguagem da WEB
 * Linguagem de alto nível
 * Foco no entendimento e não na construção
 
-# Por que estudar estrutura de dados?
+## Por que estudar estrutura de dados?
 
 * Organizar os dados da aplicação
 * Entender estruturas para melhor tomada de decisão
@@ -26,7 +26,7 @@ Alguns desafios diários de uso de dados são:
 * Repetição ou não de dados dentro da estrutura
 * Organizar os dados pelo par identificador + valor
 
-# O que é estrutura de dados?
+## O que é estrutura de dados?
 
 Uma maneira de organizar e ordenar informações como textos, números, booleanos, funções, etc e registrá-los na memória do computador.
 
@@ -34,7 +34,7 @@ Uma maneira de organizar e ordenar informações como textos, números, booleano
 * Como estão registrados na memória
   * Array? Object?
 
-# Gerenciamento de dados
+## Gerenciamento de dados
 
 Estrutura de dados tem a ver com a gestão das informações da aplicação.
 
