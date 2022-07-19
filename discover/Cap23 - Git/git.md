@@ -64,4 +64,3 @@ Sistemas Distribuídos
   * ramificações: branch (universos paralelos)
   * vários devs no mesmo projeto
   * análise e resolução de conflitos
-

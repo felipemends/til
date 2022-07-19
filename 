@@ -1,0 +1,330 @@
+[33mcommit a6993f67e0d269a44b52982167043d0b7f95ae70[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Thu Jul 7 23:02:53 2022 -0300
+
+    git
+
+[33mcommit 748ecfff63b887329287b90f96a3fde92ceb8d48[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Thu Jul 7 22:19:02 2022 -0300
+
+    funcional
+
+[33mcommit 2b317defa958f4fb17acafb47ab01e56c4ed2359[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jul 4 21:52:59 2022 -0300
+
+    funcional
+
+[33mcommit 5212d4b2a199deb4172c0a219335dcc092e1fd27[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jul 4 21:26:58 2022 -0300
+
+    POO
+
+[33mcommit b6c436ce44d44062a76d4fef3afe1b7cd6c4ad6d[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Jun 29 22:52:51 2022 -0300
+
+    Estrutura de Dados
+
+[33mcommit ab9ede84fbde9e1874321a919c939306c99060f0[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Jun 29 22:51:10 2022 -0300
+
+    SQL e Estrutura de Dados - Discover
+
+[33mcommit cc155d9d2f47da9da8f6e4a3096ad30a074c3a9c[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jun 27 23:23:44 2022 -0300
+
+    SQL
+
+[33mcommit 13f59ee9fc0fe25803325f92d33fe2b8156abeed[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Jun 14 21:46:15 2022 -0300
+
+    NodeJS com EJS
+
+[33mcommit bcc3f13c430e376893857618c70f980c971e5780[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jun 13 23:08:42 2022 -0300
+
+    NodeJS com EJS
+
+[33mcommit 84f227c4d64205b114d99f309c6a913672449e2b[m
+Merge: 489147c 81c1941
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jun 13 21:53:44 2022 -0300
+
+    Merge branch 'main' of https://github.com/felipemends/Felpy
+
+[33mcommit 489147cfbc0763f835a8df0d23a8e4a39ec73092[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jun 13 21:53:41 2022 -0300
+
+    Finalizando o módulo NodeJS
+
+[33mcommit 81c194130885dbc886a7058a3b5aecb77fb197e5[m
+Author: Felipe Mendes Vasconcelos <97047785+felipemends@users.noreply.github.com>
+Date:   Mon Jun 13 21:29:50 2022 -0300
+
+    Create .gitattributes
+
+[33mcommit c7fa851644f94a7046a90e8955b6bd2c5bc95c5c[m
+Author: Felipe Mendes Vasconcelos <97047785+felipemends@users.noreply.github.com>
+Date:   Mon Jun 13 21:28:08 2022 -0300
+
+    Create .gitattributes
+
+[33mcommit bb9106b779647e8b22aa3d9072ba70071643fc68[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Jun 13 21:24:27 2022 -0300
+
+    Node TimeOut Interval
+
+[33mcommit 9b20247d4b207485e2a5d85e45d5a9c9a00a2341[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Jun 1 23:21:41 2022 -0300
+
+    NodeJS
+
+[33mcommit 0fd8f83d1c372811220c51f3d08227ffc156b809[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue May 31 22:53:32 2022 -0300
+
+    npm
+
+[33mcommit 7a18bd6b59aaf89ec0b128e0db5ae463172d923d[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 30 22:21:34 2022 -0300
+
+    npm
+
+[33mcommit dfd73ca39cbf7043e69d37e8ad7a3832170ade71[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 30 16:46:28 2022 -0300
+
+    nodejs
+
+[33mcommit e7133c2dbdc63ef8900683dab4f56867d56e5a27[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue May 24 22:06:59 2022 -0300
+
+    NodeJS - discover
+
+[33mcommit a5d279fdb746de63b4772261bd04cb5c074f6ce6[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue May 24 21:21:05 2022 -0300
+
+    Terminal - discover
+
+[33mcommit 433c5f8488938217149f7f36dfe1836d26dece14[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 23 23:00:00 2022 -0300
+
+    Terminal - discover
+
+[33mcommit 9939c18cca147b4d5d5194250bf25a9ffdca6fb7[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed May 18 23:43:03 2022 -0300
+
+    Desafio Modal inacabado
+
+[33mcommit 6174c07a8e4f0752869ac182f477263a92466db5[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed May 18 23:42:38 2022 -0300
+
+    Desafio Modal inacabado
+
+[33mcommit c04d50e0d788886c4a03cdbcf3148b58b9cf1443[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue May 17 23:05:36 2022 -0300
+
+    Cap15 Alterando HTML pelo JS e Eventos
+
+[33mcommit 4059b166fbd24dbc9d317850256b64aa1cf517b9[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 16 23:13:55 2022 -0300
+
+    Discover Cap15
+
+[33mcommit 1bffdfb88c7fc63ddbab6556ff4173cbfafae3bb[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Thu May 12 23:34:34 2022 -0300
+
+    Cap 14 e 15 discover
+
+[33mcommit 1d4912d9aa0e12e9503cfcce2eaea6cadb4467b1[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 9 23:16:23 2022 -0300
+
+    Capítulos 12 e 13 do Discover Rocketseat
+
+[33mcommit 2b3ff264774b22f69cda715c9995609ebdaacb5e[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon May 2 23:09:33 2022 -0300
+
+    finalizando o cap11 do discover
+
+[33mcommit 683b59f4e4e5c5306e7ce36f87a3d18366459384[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Thu Apr 28 22:40:33 2022 -0300
+
+    discover
+
+[33mcommit 599a69f72b3dd03f6517ae0bc151d625754be19e[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 26 23:00:29 2022 -0300
+
+    discover
+
+[33mcommit d242d3e83e2a33e8185f05139aae4b9503c84ae5[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Apr 25 23:13:21 2022 -0300
+
+    discover
+
+[33mcommit 8b77cab2c8654517fad005bd165e9d82a99f35b3[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 19 23:17:57 2022 -0300
+
+    discover cap11
+
+[33mcommit 0f7a89f384f0b2e650b2f99818dabcf28b726946[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Apr 13 23:35:19 2022 -0300
+
+    cap11 discovery
+
+[33mcommit 4a5b5f8c21c8b90bb9d0f509c29fd28e44da9a01[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Apr 13 23:34:50 2022 -0300
+
+    cap11 discovery
+
+[33mcommit 35bef65c12ee1d97c1f64d07305c8e15ad5457c6[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Apr 13 23:05:44 2022 -0300
+
+    discovery forms
+
+[33mcommit 1c48a1c1380c1e0a976946638de9621da9655894[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 12 22:45:18 2022 -0300
+
+    discovery
+
+[33mcommit 5dd2c3cf853f2c5cc4f67181d649e25778bc095b[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 12 21:25:51 2022 -0300
+
+    reorganizando as pastas
+
+[33mcommit 327d7a3490ead02e87047b3501f99725aad89b98[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 12 21:24:50 2022 -0300
+
+    reorganizando as pastas
+
+[33mcommit 1953bba2347f5fc07bc80f17c4d73188ee4c49b1[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Apr 12 21:14:52 2022 -0300
+
+    ranked-ml
+
+[33mcommit f0472448d1cb7839de7ec808cb5c37a0c519d569[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Apr 4 23:09:44 2022 -0300
+
+    discover fonts e layout
+
+[33mcommit a5d1b1dd0bf1604e8b119a846863848ed90a8390[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Apr 4 22:06:10 2022 -0300
+
+    Testando o git pelo vscode
+
+[33mcommit ec77033e76ba757ee5a16957c388dc5266a5738a[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Apr 4 21:50:17 2022 -0300
+
+    04042022 usando o git pelo vscode
+
+[33mcommit 7dddbf7ff3fafa4d6602682ab4060ba2c0088fa0[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Apr 4 21:44:18 2022 -0300
+
+    04042022 discover
+
+[33mcommit 64cad24cac1ca2f2363be73b0c7db941a6bbbaf8[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Mar 30 23:30:13 2022 -0300
+
+    30032022 discover
+
+[33mcommit 255f63c9d8dac4efbd79b6d84797fd1dcc3637c4[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Mar 29 10:58:16 2022 -0300
+
+    29032022 sql_teomewhy
+
+[33mcommit e18afdfa5b1f17b57dab43039da1802340953d57[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 28 23:53:15 2022 -0300
+
+    28032022
+
+[33mcommit d637fee36d1a82dd502715ee0b6bad1d62392c64[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Mar 23 22:51:40 2022 -0300
+
+    23032022
+
+[33mcommit 29f46d32f32ef21057df6227ac00bb7c35eba06f[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Mar 23 00:07:13 2022 -0300
+
+    22032022 py4e e colocar o teomewhy pra jogo do jeito certo
+
+[33mcommit 9cf89548b92b8519dcb8a9eb76c2b6d8e131560d[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Wed Mar 23 00:05:17 2022 -0300
+
+    22032022 py4e e colocar o teomewhy pra jogo
+
+[33mcommit 85d9531ee1feb39a27ce878db537bfd37d66c269[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Tue Mar 22 22:46:57 2022 -0300
+
+    22032022 py4e
+
+[33mcommit ae74725f5d35eb528bd15ffff86cafd1655d54af[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 21 23:18:54 2022 -0300
+
+    21/03/2022f
+
+[33mcommit c7854adcf88b758c611815ee47cecb6d414042e6[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 21 22:38:08 2022 -0300
+
+    21/03/2022
+
+[33mcommit c103e0e47b39a82e576529d4e28ba56ae7daec6d[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 21 22:08:10 2022 -0300
+
+    organizando pastas
+
+[33mcommit 04996eb0348a7ca6b29ff9cac4147aca2239f1b7[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 21 22:04:41 2022 -0300
+
+    hello to the world
+
+[33mcommit b0abff9f8d59ad4f6728335586d446b9b36e0925[m
+Author: felipemends <felipe.mendesv@gmail.com>
+Date:   Mon Mar 21 21:43:16 2022 -0300
+
+    Colocar o README no repositório
