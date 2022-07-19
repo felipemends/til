@@ -6,4 +6,3 @@ Protocolo de Transferência de HyperTexto
 * Uma troca de mensagens
 * HTML, CSS, Scripts, Imagens, Vídeo
 * Uma chamada para cada um desses recursos
-
