@@ -143,3 +143,6 @@ Vamos conhecer algumas características das funções na programação funcional
 * Linguagens
 * Conceitos fundamentais
   * Stateless, Imutabilidade, Função pura, Higher-orders..
+
+
+sadasdfada
