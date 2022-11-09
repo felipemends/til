@@ -1,7 +1,7 @@
 import config from "../config.json";
 import styled from "styled-components";
 import { CSSReset } from "../src/components/CSSReset";
-import Menu from "../src/components/Menu";
+import Menu from "../src/components/Menu/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 
 function HomePage() {
@@ -92,18 +92,18 @@ function Timeline(propriedades) {
                         <div>
                             {videos.map((video) => {
                                 return (
-                                    <a href={video.url}>
-                                        <img src={video.thumb} />
-                                        <span>
-                                            {video.title}
-                                        </span>
-                                    </a>
+                                  <a href={video.url}>
+                                    <img src={video.thumb} />
+                                    <span>
+                                      {video.title}
+                                    </span>
+                                  </a>
                                 )
                             })}
                         </div>
                     </section>
                 )
             })}
-        </StyledTimeline>
+    </StyledTimeline>
   )
 }
