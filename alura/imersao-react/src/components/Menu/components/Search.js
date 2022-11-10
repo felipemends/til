@@ -39,10 +39,16 @@ const StyledSearch = styled.div`
 // Search
 // Informação sempre desce
 
-export default function Search() {
+export default function Search({ valorDoFiltro, setValorDoFiltro }) {
+  // const [valorDaBusca, setValorDaBusca] = React.useState("Frost");
+  // console.log("Search", valorDaBusca)
+  const ValorDaBusca = valorDoFiltro;
+  const setValorDaBusca = setValorDoFiltro;
+
   return (
     <StyledSearch>
-      <input type="text" />
+      <input type="text" onChange={(e) => { setValorDaBusca(e.target.value)
+      }} value={ValorDaBusca} />
       <button>
         🔎
       </button>
